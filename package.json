@@ -1,0 +1,10 @@
+{
+  "name": "kimbal-demand-dashboard",
+  "version": "3.0.0",
+  "description": "Kimbal Technologies FY2526 Demand Intelligence Dashboard with Vercel-hosted Excel and AI Q&A",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "xlsx": "^0.18.5"
+  }
+}
